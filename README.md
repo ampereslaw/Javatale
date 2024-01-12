@@ -1,3 +1,5 @@
+ICS4U final project
+
 Menu:
 To move through the menu, press the left and right arrow keys. To move through the sub menu, use the up and down arrow keys. Press z to confirm your selection.
 Make sure on the sub menu that the red has lit up your choice to select it. Press z to confirm your selection.
